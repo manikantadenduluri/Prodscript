@@ -1,0 +1,6 @@
+-lt less than >
+-le less than or equal to >=
+-gt less than <
+-ge less than or equal to <=
+-eq equal to =
+-ne not equal to !=
